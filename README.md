@@ -23,3 +23,6 @@ This project utilizes the ESP32-CAM module to implement face tracking without th
 - Power up the ESP32-CAM module.
 - The device will start detecting and tracking faces automatically.
 - Observe the face tracking performance in real-time on serial port
+
+
+Youtube Link: https://youtu.be/YqNxLf628fk?si=YnqOuX-ZhvJE92PG
